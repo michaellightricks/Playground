@@ -2,6 +2,6 @@
 
 @interface Class : NSObject
 
-@property (nonatomic) BOOL newName;
+@property (nonatomic) BOOL blahBla;
 
 @end
