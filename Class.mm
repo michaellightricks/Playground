@@ -1,4 +1,5 @@
 // Created by Nir Bruner.
+// Copyright 2016.
 
 #include "Class.h"
 
