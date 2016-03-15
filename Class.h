@@ -7,4 +7,7 @@
 // this property is ble ble
 @property (nonatomic) BOOL bleble;
 
+// This is a conflicting property.
+@property (nonatomic) UInteger ha;
+
 @end
